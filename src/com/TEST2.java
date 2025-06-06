@@ -6,5 +6,10 @@ public class TEST2 {
 		System.out.println(1);
 		System.out.println("aaaaaaaaaaaaa");
 		System.out.println("aaaaaaaaaaaaa");
+		
+		System.out.println("A");
+		System.out.println("B");
+		System.out.println("C");
+		System.out.println("D");
 	}
 }
